@@ -9,5 +9,6 @@ https://np.reddit.com/r/LegalAdviceIndia/comments/s3zjly/name_change_procedure/h
 
 https://www.reddit.com/r/india/comments/cakwh2/can_i_change_my_name_and_surname_legally/
 
-
 https://stackoverflow.com/questions/31167967/python-3-4-text-to-speech-with-sapi
+
+https://www.thepythoncode.com/article/convert-text-to-speech-in-python
